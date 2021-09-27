@@ -28,14 +28,6 @@
 <br/>
 <br/>
 
-## Test the template with different colors on the playground link 🚀
-
-## [Playground Link](https://dopefolio-playground.netlify.app) 🔗
-
-<div align="center">
-  <img src="https://i.postimg.cc/xjsqN9GG/ezgif-com-gif-maker-2.gif" alt="Dopefolio Playground" width="100%" />
-  <br>
-</div>
 
 <br/>
 
